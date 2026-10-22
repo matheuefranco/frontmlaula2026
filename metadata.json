@@ -1,0 +1,6 @@
+{
+  "name": "Iris Species Predictor",
+  "description": "Dashboard to predict Iris species using AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
